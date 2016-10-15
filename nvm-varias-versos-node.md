@@ -6,7 +6,7 @@ O [NVM](https://github.com/creationix/nvm) é um script que gerencia diferentes 
 
 No shell:
 
-`curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash`
+`$ curl https://raw.githubusercontent.com/creationix/nvm/v0.23.2/install.sh | bash`
 
 ## Alguns comandos úteis:
 
