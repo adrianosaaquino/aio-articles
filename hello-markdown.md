@@ -323,14 +323,14 @@ Site 1 | 99 | 1
 
 Inserir três ou mais:
 
------
-Hífens
+Hífens  
+Asterisco  
+Underscore  
 
-***
-Asterisco
+<pre>
+*******
+</pre>
 
-___
-Underscore
 
 
 #### Código Markdown não formatado pelo Markdown (han!!!!)
